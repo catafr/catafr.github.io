@@ -1,0 +1,9 @@
+
+
+#canvas{
+  width: 100%; /*para q el ancho del canvas sea responsive (la altura esta en el js)*/
+  margin: 0 auto;
+  display: block;
+  border:1px solid #000000;
+
+}
